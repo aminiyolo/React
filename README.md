@@ -1,2 +1,3 @@
-# React
- React
+# Movie app
+
+React JS Fundamentals
